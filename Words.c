@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<string>
+#include<string.h>
 void main()
 {
 int len,i,count;
